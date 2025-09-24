@@ -6,18 +6,12 @@ My interest in computer science has led me to grow an interest and passion in cy
 ## 🛠️ Skills
 
 ### Digital Forensics & Incident Response (DFIR)
-| Topic      | Experience |
-| ----------- | ----------- |
-| Digital Forensics      |  Lorem Ipsum       |
-| Incident Response      |  Lorem Ipsum       |
-
-### Penetration Testing
-| Topic      | Experience |
-| ----------- | ----------- |
-| Active Directory      |  Lorem Ipsum      |
-| Web Applications | Lorem Ipsum |
+Lorem Ipsum
 
 ### Security Operations Center (SOC)
+Lorem Ipsum
+
+### Penetration Testing
 Lorem Ipsum
 
 ### Languages & Tools
